@@ -19,6 +19,7 @@ void formatInt (int num){
 		cout<<'0';
 		return;
 	}
+	//transfer an int to a string
 	while (tmp){
 		numStr.push_back(tmp % 10 + '0');
 		tmp /= 10;

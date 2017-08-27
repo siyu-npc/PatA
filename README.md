@@ -2,6 +2,8 @@
 This project is going to Record answers of the PAT class A developed by myself.
 The code will be written with C++ and Python.
 
+记录自己练习浙江大学PAT甲级真题的过程，每个问题的答案都将会分别用C++和Python来实现。
+
 # Induction to the Pat:
 计算机程序设计能力考试（Programming Ability Test，简称PAT）旨在通过统一组织的在线考试及自动评测方法客观地评判考生的算法设计与程序设计实现能力，科学的评价计算机程序设计人才，为企业选拔人才提供参考标准。
 
